@@ -1,4 +1,4 @@
-public class Lesson_3_1_1 {
+public class Lesson_4_1_1 {
     public static void main(String[] args) {
         int i;
         for (i = 10; i < 20; i++) {

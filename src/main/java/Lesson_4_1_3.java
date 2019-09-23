@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Lesson_3_1_3 {
+public class Lesson_4_1_3 {
 
 
     public static void main(String args[]) {
